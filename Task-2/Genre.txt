@@ -1,1 +1,1 @@
-
+Its a website about meditation centre which provides different meditation packages at different prices and also keeps track of our progress.
